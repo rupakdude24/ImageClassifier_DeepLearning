@@ -1,0 +1,15 @@
+gevent==20.6.2
+gunicorn==19.9.0
+keras
+numpy==1.18.5
+h5py==2.10.0
+pillow==7.1.2
+flask_uploads
+Flask==1.1.2
+protobuf==3.2.0
+tensorflow==1.0.0
+Werkzeug==1.0.1
+scipy>=0.15.1
+scikit-learn>=0.18
+matplotlib>=1.4.3
+pandas>=0.19
