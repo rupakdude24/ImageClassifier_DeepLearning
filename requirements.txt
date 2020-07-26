@@ -7,7 +7,7 @@ pillow==7.1.2
 flask_uploads
 Flask==1.1.2
 protobuf==3.2.0
-tensorflow==1.0.0
+tensorflow==1.15.2
 Werkzeug==1.0.1
 scipy>=0.15.1
 scikit-learn>=0.18
