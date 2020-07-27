@@ -10,3 +10,4 @@ tensorflow==2.1.0
 Werkzeug==1.0.1
 scipy==1.4.1
 scikit-image==0.16.2
+setuptools>=41.0.0
