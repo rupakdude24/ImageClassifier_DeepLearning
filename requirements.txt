@@ -1,4 +1,4 @@
-gunicorn
+gunicorn==20.0.4
 keras
 numpy==1.18.5
 h5py==2.10.0
